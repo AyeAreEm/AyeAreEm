@@ -1,4 +1,5 @@
 # Introduction
+- Currently working at Bamboo Technologies as an Associate Full-Stack Engineer Intern
 - Learning to become a software engineer at uni next year
 - Familiar with making websites, desktop and mobile apps
 - Trying to branch out into systems programming and game development
