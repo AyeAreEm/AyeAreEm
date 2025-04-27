@@ -1,8 +1,8 @@
 # Introduction
 - Software Engineer
-- Taking Computer Science starting March 2025
-- Familiar with making websites, desktop and mobile apps
-- Trying to branch out into systems programming and game development
+- Taking Computer Science at Griffith University
+- Love all things software. From making websites to making programming languages. From making desktop games to visualising the mandelbrot set.
+- Trying to branch out into systems programming and hardware
 
 # Socials
 - [Instagram](https://www.instagram.com/ag.ayeareem/)
