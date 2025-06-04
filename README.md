@@ -1,7 +1,7 @@
 # Introduction
 - Software Engineer
 - Taking Computer Science at Griffith University
-- Love all things software. From making websites to making programming languages. From making desktop games to visualising the mandelbrot set.
+- Love all things software. If it involves programming, I'm here for it
 - Trying to branch out into systems programming and hardware
 
 # Links
