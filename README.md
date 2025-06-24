@@ -5,6 +5,7 @@
 - Trying to branch out into systems programming and hardware
 
 # Links
-- [Instagram](https://www.instagram.com/ag.ayeareem/)
 - [Twitch](https://www.twitch.tv/ayeareemm)
 - [YouTube](https://www.youtube.com/@ayeareemm)
+- [Kofi](https://ko-fi.com/ayeareem)
+- [Instagram](https://www.instagram.com/ag.ayeareem/)
